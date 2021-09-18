@@ -23,7 +23,7 @@ class Program {
     }
     else if (amo2 >=10000)
     {
-      Console.WriteLine("Performance is Excellant");
+      Console.WriteLine("Performance is Excellent");
     }
     else if (amo2 >=5000)
     {
